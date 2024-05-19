@@ -1,0 +1,206 @@
+{
+    "status": "ok",
+    "totalResult": 50,
+    "employees": [
+      {
+        "name": "Suraj Kumar",
+        "email": "kumarsuraj@gmail.com",
+        "phone": "9876543102",
+        "domain": "Backend Development",
+        "availability": "Available",
+        "emp_id": "kumarsuraj9625"
+      },
+      {
+        "name": "Jessica Smith",
+        "email": "jessica.smith@example.com",
+        "phone": "1234567890",
+        "domain": "Frontend Development",
+        "availability": "Unavailable",
+        "emp_id": "jessicasmith123"
+      },
+      {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "9876543210",
+        "domain": "Testing",
+        "availability": "Available",
+        "emp_id": "johndoe456"
+      },
+      {
+        "name": "Emily Johnson",
+        "email": "emily.johnson@example.com",
+        "phone": "7890123456",
+        "domain": "Deployment",
+        "availability": "Available",
+        "emp_id": "emilyjohnson789"
+      },
+      {
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "phone": "9871234560",
+        "domain": "Backend Development",
+        "availability": "Unavailable",
+        "emp_id": "michaelbrown246"
+      },
+      {
+        "name": "Sophia Wilson",
+        "email": "sophia.wilson@example.com",
+        "phone": "4567890123",
+        "domain": "Testing",
+        "availability": "Available",
+        "emp_id": "sophiawilson789"
+      },
+      {
+        "name": "David Taylor",
+        "email": "david.taylor@example.com",
+        "phone": "6543210987",
+        "domain": "Deployment",
+        "availability": "Unavailable",
+        "emp_id": "davidtaylor123"
+      },
+      {
+        "name": "Emma Anderson",
+        "email": "emma.anderson@example.com",
+        "phone": "8901234567",
+        "domain": "Frontend Development",
+        "availability": "Available",
+        "emp_id": "emmaanderson567"
+      },
+      {
+        "name": "Matthew Martinez",
+        "email": "matthew.martinez@example.com",
+        "phone": "2345678901",
+        "domain": "Frontend Development",
+        "availability": "Available",
+        "emp_id": "matthewmartinez890"
+      },
+      {
+        "name": "Olivia Thomas",
+        "email": "olivia.thomas@example.com",
+        "phone": "6789012345",
+        "domain": "Testing",
+        "availability": "Unavailable",
+        "emp_id": "oliviathomas567"
+      },
+      {
+        "name": "Daniel Clark",
+        "email": "daniel.clark@example.com",
+        "phone": "9012345678",
+        "domain": "Backend Development",
+        "availability": "Available",
+        "emp_id": "danielclark901"
+      },
+      {
+        "name": "Ava Rodriguez",
+        "email": "ava.rodriguez@example.com",
+        "phone": "3456789012",
+        "domain": "Deployment",
+        "availability": "Unavailable",
+        "emp_id": "avarodriguez345"
+      },
+      {
+        "name": "Jack Smith",
+        "email": "jack.smith@example.com",
+        "phone": "2345678901",
+        "domain": "Frontend Development",
+        "availability": "Unavailable",
+        "emp_id": "jacksmith234"
+      },
+      {
+        "name": "Emma Wilson",
+        "email": "emma.wilson@example.com",
+        "phone": "7890123456",
+        "domain": "Testing",
+        "availability": "Available",
+        "emp_id": "emmawilson789"
+      },
+      {
+        "name": "Ryan Johnson",
+        "email": "ryan.johnson@example.com",
+        "phone": "3456789012",
+        "domain": "Deployment",
+        "availability": "Unavailable",
+        "emp_id": "ryanjohnson345"
+      },
+      {
+        "name": "Sophie Brown",
+        "email": "sophie.brown@example.com",
+        "phone": "9012345678",
+        "domain": "Backend Development",
+        "availability": "Available",
+        "emp_id": "sophiebrown901"
+      },
+      {
+        "name": "Lucas Miller",
+        "email": "lucas.miller@example.com",
+        "phone": "6789012345",
+        "domain": "Frontend Development",
+        "availability": "Available",
+        "emp_id": "lucasmiller678"
+      },
+      {
+        "name": "Ella Davis",
+        "email": "ella.davis@example.com",
+        "phone": "4567890123",
+        "domain": "Testing",
+        "availability": "Unavailable",
+        "emp_id": "elladavis456"
+      },
+      {
+        "name": "Henry Martinez",
+        "email": "henry.martinez@example.com",
+        "phone": "1234567890",
+        "domain": "Deployment",
+        "availability": "Unavailable",
+        "emp_id": "henrymartinez123"
+      },
+      {
+        "name": "Mia Thompson",
+        "email": "mia.thompson@example.com",
+        "phone": "9876543210",
+        "domain": "Backend Development",
+        "availability": "Available",
+        "emp_id": "miathompson987"
+      },
+      {
+        "name": "William White",
+        "email": "william.white@example.com",
+        "phone": "2345678901",
+        "domain": "Frontend Development",
+        "availability": "Unavailable",
+        "emp_id": "williamwhite234"
+      },
+      {
+        "name": "Charlotte Harris",
+        "email": "charlotte.harris@example.com",
+        "phone": "3456789012",
+        "domain": "Testing",
+        "availability": "Available",
+        "emp_id": "charlotteharris345"
+      },
+      {
+        "name": "Ethan Walker",
+        "email": "ethan.walker@example.com",
+        "phone": "6789012345",
+        "domain": "Deployment",
+        "availability": "Unavailable",
+        "emp_id": "ethanwalker678"
+      },
+      {
+        "name": "Amelia Nelson",
+        "email": "amelia.nelson@example.com",
+        "phone": "9012345678",
+        "domain": "Backend Development",
+        "availability": "Available",
+        "emp_id": "amelianelson901"
+      },
+      {
+        "name": "James Turner",
+        "email": "james.turner@example.com",
+        "phone": "123456",
+        "domain": "Frontend Development",
+        "availability": "Unavailable",
+        "emp_id": "jaishrikrishna"
+      }
+    ]
+}
